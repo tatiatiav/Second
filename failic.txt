@@ -1,0 +1,12 @@
+$ git log
+commit a44567b75116694284144cdddb91aaa4588152f6 (HEAD -> master)
+Author: Татьяна Витальевна <tatianavitalievna@yandex.ru>
+Date:   Sun Jun 21 09:28:11 2026 +0300
+
+    Изменения в README1.txt
+
+commit 9327e50271d9e34bd2a6a4c7339ed9dc434bbbff
+Author: Татьяна Витальевна <tatianavitalievna@yandex.ru>
+Date:   Sun Jun 21 09:25:59 2026 +0300
+
+    Добавлен файл README1.txt
